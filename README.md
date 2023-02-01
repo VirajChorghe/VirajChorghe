@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Viraj Chorghe</h1>
+<h1>Hi 👋, I'm Viraj Chorghe</h1>
 
 - 😎 Expertize in Website & Web Application Development
 - 🌱 Love to learn & explore New things.
