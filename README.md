@@ -105,5 +105,5 @@
 
 ![GitHub Contribution Stats](https://github-readme-stats.vercel.app/api?username=virajchorghe)
 
-![3D Profile](https://raw.githubusercontent.com/virajchorghe/virajchorghe/88000618ada53627ba6998cc88be8bdb0b2a6a9e/profile-3d-contrib/profile-green-animate.svg)
+![3D Profile](https://raw.githubusercontent.com/VirajChorghe/VirajChorghe/88000618ada53627ba6998cc88be8bdb0b2a6a9e/profile-3d-contrib/profile-green-animate.svg)
 
