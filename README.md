@@ -104,7 +104,10 @@
 
 - 📫 How to reach me [![My Blog](https://img.shields.io/badge/virajchorghe.com-ffffff.svg?style=for-the-badge&logo=chipperci&logoColor=black)](https://virajchorghe.com)
 
+
+<!--  
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=virajchorghe)
 
-![GitHub Contribution Stats](https://github-readme-stats.vercel.app/api?username=virajchorghe)
+## ![GitHub Contribution Stats](https://github-readme-stats.vercel.app/api?username=virajchorghe)
+-->
 
