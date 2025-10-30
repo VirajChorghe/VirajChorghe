@@ -95,14 +95,15 @@
     <img src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/VuePress.svg" alt="vuepress" width="40" height="40"/> 
 </a> 
 <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> 
-    <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> 
+    <img src="https://vuepress.vuejs.org/images/hero.png" alt="vuetify" width="40" height="40"/> 
 </a> 
+<!-- 
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
  </p>
+-->
 
-
-- 📫 How to reach me [![My Blog](https://img.shields.io/badge/virajchorghe.com-ffffff.svg?style=for-the-badge&logo=chipperci&logoColor=black)](https://virajchorghe.com)
+- 📫 How to reach me : [![My Blog](https://img.shields.io/badge/virajchorghe.com-ffffff.svg?style=for-the-badge&logo=chipperci&logoColor=black)](https://virajchorghe.com)
 
 
 <!--  
